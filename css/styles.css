@@ -64,3 +64,9 @@ body {
   line-height: normal;
   text-align: center;
 }
+
+#carouselButton {
+  right: 0px;
+  position: absolute; 
+  bottom: 0px;
+}
